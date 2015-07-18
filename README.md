@@ -1,5 +1,7 @@
 ## Ember Data [![Build Status](https://secure.travis-ci.org/emberjs/data.png?branch=master)](http://travis-ci.org/emberjs/data)
 
+[![Join the chat at https://gitter.im/maxgillett/data](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/maxgillett/data?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ember Data is a library for loading models from a persistence layer (such as
 a JSON API), updating those models, then saving the changes. It provides many
 of the facilities you'd find in server-side ORMs like ActiveRecord, but is
